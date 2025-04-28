@@ -1,0 +1,55 @@
+station,cluster,latitude,longitude,elevation,climate
+GHCND:USC00450482,3,45.7716,-122.5286,86.6,warm very dry lowland
+GHCND:USC00450844,3,48.99444,-117.35407,559.9,warm very dry lowland
+GHCND:USC00451395,3,48.27323,-117.74101,501.1,warm very dry lowland
+GHCND:USC00451504,3,47.189,-120.913,579.1,warm very dry lowland
+GHCND:USC00451679,0,48.5397,-121.7422,59.4,warm very dry costal
+GHCND:USC00451939,0,47.3705,-123.16,6.4,warm very dry costal
+GHCND:USC00452030,5,46.3152,-118.0022,474.6,hot very dry lowland
+GHCND:USC00452505,3,46.9692,-120.54,451.1,warm very dry lowland
+GHCND:USC00452563,5,47.69831,-120.3229,313.0,hot very dry lowland
+GHCND:USC00455133,5,48.6007,-120.4276,652.6,hot very dry lowland
+GHCND:USC00455525,0,47.845,-121.99556,38.1,warm very dry costal
+GHCND:USC00455659,3,45.9997,-121.5403,594.4,warm very dry lowland
+GHCND:USC00455840,3,48.6758,-121.2419,160.0,warm very dry lowland
+GHCND:USC00455946,3,48.89937,-117.82899,456.3,warm very dry lowland
+GHCND:USC00456295,3,47.30889,-121.85556,268.8,warm very dry lowland
+GHCND:USC00456534,3,47.75838,-120.65881,565.4,warm very dry lowland
+GHCND:USC00456880,5,47.22353,-119.8524,392.0,hot very dry lowland
+GHCND:USC00457180,3,47.23446,-117.36364,737.6,warm very dry lowland
+GHCND:USC00457522,5,46.6722,-120.4994,341.4,hot very dry lowland
+GHCND:USR0000WESC,5,47.0378,-117.9472,503.8,hot very dry lowland
+GHCND:USR0000WGRN,3,47.1556,-121.6114,640.1,warm very dry lowland
+GHCND:USS0020A09S,1,48.52,-120.74,1490.5,moderate very dry mountainous
+GHCND:USS0020A46S,3,48.07,-120.85,893.1,warm very dry lowland
+GHCND:USS0021A01S,1,48.88,-121.26,1106.4,moderate very dry mountainous
+GHCND:USS0021A07S,4,48.86,-121.44,1606.3,moderate rainy mountainous
+GHCND:USS0021A09S,2,48.76,-121.7,1072.9,moderate dry highland
+GHCND:USS0021A28S,4,48.93,-121.2,1777.0,moderate rainy mountainous
+GHCND:USS0021A31S,2,48.87,-121.79,1228.3,moderate dry highland
+GHCND:USS0021B01S,1,47.75,-121.09,1204.0,moderate very dry mountainous
+GHCND:USS0021B10S,1,47.27,-121.34,1173.5,moderate very dry mountainous
+GHCND:USS0021B31S,1,47.16,-121.42,1414.3,moderate very dry mountainous
+GHCND:USS0021C13S,1,46.09,-121.76,1307.6,moderate very dry mountainous
+GHCND:USS0021C28S,1,46.64,-121.38,1353.3,moderate very dry mountainous
+GHCND:USS0021C38S,1,46.81,-121.33,1405.1,moderate very dry mountainous
+GHCND:USS0021C41S,4,46.87,-121.53,1597.2,moderate rainy mountainous
+GHCND:USS0022C09S,1,46.15,-122.15,1048.5,moderate very dry mountainous
+GHCND:USS0022C12S,1,46.26,-122.18,1072.9,moderate very dry mountainous
+GHCND:USS0022C13S,2,46.16,-122.18,1353.3,moderate dry highland
+GHCND:USS0023B06S,1,47.76,-123.03,1207.0,moderate very dry mountainous
+GHCND:USS0023B16S,1,47.87,-123.08,1222.2,moderate very dry mountainous
+GHCND:USS0023B18S,1,47.71,-123.46,1484.4,moderate very dry mountainous
+GHCND:USW00004205,0,48.16056,-122.15889,41.8,warm very dry costal
+GHCND:USW00004223,0,48.5405,-121.446,124.1,warm very dry costal
+GHCND:USW00024110,5,47.19295,-119.31459,356.3,hot very dry lowland
+GHCND:USW00024141,5,47.30777,-119.51551,382.1,hot very dry lowland
+GHCND:USW00024157,5,47.62168,-117.52796,717.7,hot very dry lowland
+GHCND:USW00024217,0,48.7991,-122.54069,45.9,warm very dry costal
+GHCND:USW00024220,5,47.03376,-120.53135,532.5,hot very dry lowland
+GHCND:USW00024227,3,46.97371,-122.90493,60.9,warm very dry lowland
+GHCND:USW00024243,5,46.56398,-120.53488,321.0,hot very dry lowland
+GHCND:USW00094176,5,47.68575,-117.32141,594.6,hot very dry lowland
+GHCND:USW00094197,5,48.46113,-119.52091,397.4,hot very dry lowland
+GHCND:USW00094227,3,47.23842,-123.14147,84.2,warm very dry lowland
+GHCND:USW00094263,3,47.48333,-122.76667,135.3,warm very dry lowland
